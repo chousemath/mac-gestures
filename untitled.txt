@@ -1,0 +1,9 @@
+# Dependencies
+
+```bash
+sudo pip3 install pyobjc-framework-Quartz
+sudo pip3 install pyobjc-core
+sudo pip3 install pyobjc
+sudo pip3 install pyautogui
+```
+
